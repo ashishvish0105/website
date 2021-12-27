@@ -1,0 +1,31 @@
+a.tag-cloud-link {
+    color: var(--global-font-color) !important;
+}
+footer .widget ul.wp-tag-cloud li a {
+    padding-left: 16px !important;
+}
+footer .widget ul.wp-tag-cloud li a:hover{
+    color:var(--color-theme-white)!important;
+}
+li.recentcomments,
+footer .rssSummary,
+footer .widget ul.menu li a, 
+footer .widget ul li a {
+    color: white;
+}
+.wp-block-latest-comments__comment-meta a:hover{
+	color: var(--color-theme-primary);
+}
+.copyright-footer span.copyright {
+    display: flex;
+    justify-content: center;
+}
+footer .widget ul.wp-tag-cloud li a:hover{
+    color:var(--color-theme-white)!important;
+}
+footer .widget ul.wp-tag-cloud li a {
+    padding-left: 16px;
+}
+footer .widget_text .textwidget p {
+    color: white;
+}
